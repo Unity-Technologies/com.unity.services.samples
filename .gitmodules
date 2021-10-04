@@ -1,0 +1,3 @@
+[submodule "game-operations-samples"]
+	path = game-operations-samples
+	url = git@github.com:Unity-Technologies/game-operations-samples.git
