@@ -1,0 +1,6 @@
+[submodule "com.unity.services.samples.game-operations"]
+	path = com.unity.services.samples.game-operations
+	url = git@github.com:Unity-Technologies/com.unity.services.samples.game-operations.git
+[submodule "com.unity.services.samples.game-lobby"]
+	path = com.unity.services.samples.game-lobby
+	url = git@github.com:Unity-Technologies/com.unity.services.samples.game-lobby.git
