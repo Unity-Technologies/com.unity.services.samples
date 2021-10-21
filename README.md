@@ -6,6 +6,9 @@ This repository serves as a hub for multiple sample Unity projects which demonst
 To participate in the Unity Gaming Services Open Beta and use the new Services,
 contact your Unity representative.
 
+![alt_text](~Documentation/Images/do-markup.svg "Do: Clone this repository using the '--recurse-submodules' option. -or- Navigate to a submodule you want, and clone or download a zip of the individual repo.")
+![alt_text](~Documentation/Images/dont-markup.svg "Don't: Download a zip of this repository. It won't include the submodule content.")
+
 ## Getting Started
 
 You can clone this repository with all submodules using `git clone --recurse-submodules [url]`.
