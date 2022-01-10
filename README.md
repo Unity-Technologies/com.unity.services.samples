@@ -10,13 +10,21 @@ This repository serves as a hub for multiple sample Unity projects which demonst
 
 ## Getting Started
 
-You can clone this repository with all submodules using `git clone --recurse-submodules [url]`.
-You can also clone each submodule individually.
-This repository and all sample repositories are read only.
+Clone this repository with all submodules (one for each sample project).
+
+```bash
+git clone --recurse-submodules https://github.com/Unity-Technologies/com.unity.services.samples
+```
+
+If you're only interested in an individual sample you can follow the links in the sections below to the specific repos and clone them from there.
 
 ## Overview
 
 ### Game Operations Samples
+
+See the [Game Operations Samples repo](https://github.com/Unity-Technologies/com.unity.services.samples.game-operations)
+to get started with exploring samples that implement various Unity Gaming Services,
+such as Authentication, Economy, Remote Config, Cloud Code, and Cloud Save.
 
 ![alt_text](~Documentation/Images/game-operations-samples-screen-shot-1.png "samples starting menu")
 
@@ -28,11 +36,10 @@ These samples demonstrate how various services can be used together to:
 
 ![alt_text](~Documentation/Images/game-operations-samples-screen-shot-2.png "example of having live seasonal content in a game")
 
-See the [Game Operations Samples repo](https://github.com/Unity-Technologies/com.unity.services.samples.game-operations)
-to get started with exploring samples that implement various Unity Gaming Services,
-such as Authentication, Economy, Remote Config, Cloud Code, and Cloud Save.
-
 ### Game Lobby Sample
+
+See the [Game Lobby Samples repo](https://github.com/Unity-Technologies/com.unity.services.samples.game-lobby)
+to get started with exploring samples that implement Unity Gaming Services, such as Relay and Lobby.
 
 ![alt_text](~Documentation/Images/game-lobby-samples-screen-shot-1.png "an example lobby list")
 
@@ -42,6 +49,3 @@ and then connect with Relay to use Unity Transport ("UTP") for basic real-time c
 Relay allows players to securely communicate with each other while maintaining connection anonymity.
 
 ![alt_text](~Documentation/Images/game-lobby-samples-screen-shot-2.png "an example lobby")
-
-See the [Game Lobby Samples repo](https://github.com/Unity-Technologies/com.unity.services.samples.game-lobby)
-to get started with exploring samples that implement Unity Gaming Services, such as Relay and Lobby.
