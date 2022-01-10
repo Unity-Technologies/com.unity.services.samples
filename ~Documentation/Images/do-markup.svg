@@ -70,7 +70,7 @@
                         </g>
                     </svg>
                     <span class="message"><b>Do</b><br/>
-                    Clone this repository using the "-recurse-submodules" option.<br/><span class="or"><b><i>or</i></b></span><br/>Navigate to a submodule you want, and clone or download a zip of the individual repo.</span>
+                    Clone this repository using the "--recurse-submodules" option.<br/><span class="or"><b><i>or</i></b></span><br/>Navigate to a submodule you want, and clone or download a zip of the individual repo.</span>
                 </div>
             </div>
         </div>
