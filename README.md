@@ -1,7 +1,7 @@
 # Unity Gaming Services Samples
 
-![alt_text](~Documentation/Images/do-markup.svg "Do: Clone this repository using the '--recurse-submodules' option. -or- Navigate to a submodule you want, and clone or download a zip of the individual repo.")
 ![alt_text](~Documentation/Images/dont-markup.svg "Don't: Download a zip of this repository. It won't include the submodule content.")
+![alt_text](~Documentation/Images/do-markup.svg "Do: Clone this repository using the '--recurse-submodules' option. -or- Navigate to a submodule you want, and clone or download a zip of the individual repo.")
 
 This repository serves as a hub for multiple sample Unity projects which demonstrate features of Unity Gaming Services SDKs.
 
