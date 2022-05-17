@@ -6,7 +6,7 @@
 This repository serves as a hub for multiple sample Unity projects which demonstrate features of Unity Gaming Services SDKs.
 
 > **Note**: The Unity Gaming Services are currently in Open Beta. To participate in the Unity Gaming Services Open Beta and use the new services, go to the
-[Unity Dashboard](https://dashboard.unity3d.com/) &gt; Explore Services &gt; Unity Gaming Services Beta Details, and click Join now.
+[Unity Dashboard](https://dashboard.unity3d.com/) → Explore Services → Unity Gaming Services Beta Details, and click Join now.
 
 ## Getting Started
 
@@ -20,13 +20,13 @@ If you're only interested in an individual sample you can follow the links in th
 
 ## Overview
 
-### Game Operations Samples
+### Unity Gaming Services Use Cases
 
-See the [Game Operations Samples repo](https://github.com/Unity-Technologies/com.unity.services.samples.game-operations)
+See the [Unity Gaming Services Use Cases repo](https://github.com/Unity-Technologies/com.unity.services.samples.game-operations)
 to get started with exploring samples that implement various Unity Gaming Services,
 such as Authentication, Economy, Remote Config, Cloud Code, and Cloud Save.
 
-![alt_text](~Documentation/Images/game-operations-samples-screen-shot-1.png "samples starting menu")
+![alt_text](~Documentation/Images/game-operations-samples-screen-shot-1.png "use cases starting menu")
 
 This collection of samples is designed to guide developers to use multiple Unity Gaming Services in a single project.
 These samples demonstrate how various services can be used together to:
